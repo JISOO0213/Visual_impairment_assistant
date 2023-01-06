@@ -1,0 +1,22 @@
+names:
+  0: nothing
+  1: pedestrian
+  2: person on vehicle
+  3: car
+  4: bicycle
+  5: motorbike
+  6: non motorized vehicle
+  7: static person
+  8: distractor
+  9: occluder
+  10: occluder on the ground
+  11: occluder full
+  12: reflection
+  13: bus
+  14: scooter
+  15 : bench
+  16 : traffic_light
+  17 : bollard
+  18 : truck
+train: ./train.txt
+val: ./valid.txt
